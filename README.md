@@ -1,4 +1,4 @@
-Elevator System
+#Elevator System
 This Java project simulates an elevator system that services requests for floors based on a prioritized queue. The elevator moves between floors 1-6 and the ground floor (G), processing floor requests in an optimized order by serving floors in the current direction first before switching directions.
 
 Table of Contents
